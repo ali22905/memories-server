@@ -12,9 +12,6 @@ This project serves as the API for the Memories App website, which was developed
 ## Purpose
 I created this website to practice and reinforce the skills I learned during the MERN stack course. It serves as a practical application of the concepts covered in the course.
 
-## Code Examples
-Unfortunately, no code samples are available for this project.
-
 ## Contact Information
 - Name: Ali Attia
 - Email: aly2292005@gmail.com
